@@ -44,4 +44,4 @@ See [LICENSE](LICENSE).
 
 ## Author
 
-Sagar — Senior Engineering Manager, Enterprise Data Detection and Protection, Capital One.
+Sagar Patel — Engineering Leader, FinTech.
